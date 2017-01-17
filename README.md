@@ -43,9 +43,29 @@ compile 'com.netcosports.opta:rxjava:1.0.6'
 ```groovy
 compile 'com.netcosports.opta:rxjava2:1.0.6'
 ```
+[TwitterNetcoLibV2](https://github.com/netcosports/TwitterNetcoLibV2)
 
+Fabric based twitter lib implementation
 
-Othes:
+	
+```groovy
+compile 'com.netcosports.twitterlib:twitter:1.0.1'
+```
+	
+```groovy
+compile 'com.netcosports.twitterlib2:twitter:1.0.1'
+```
+
+[ViewPagerIndicators](https://github.com/netcosports/ViewPagerIndicator)
+
+Netco view pager indicators. Also contains inside [PagerSlidingTabStrip](https://github.com/netcosports/PagerSlidingTabStrip)
+
+		
+```groovy
+compile 'com.netcosports.viewpagerindicators:indicators:1.0.6'
+```
+
+Others:
 
 
 ```groovy
@@ -73,14 +93,7 @@ compile 'com.netcosports.scrollbarpanel:scrollbarpanel:1.0.0'
 ```groovy
 compile 'com.netcosports.signing:retrofit:1.0.10'
 ```
-	
-```groovy
-compile 'com.netcosports.twitterlib:twitter:1.0.1'
-```
-	
-```groovy
-compile 'com.netcosports.twitterlib2:twitter:1.0.1'
-```
+
 	
 ```groovy
 compile 'com.netcosports.utils:asyncimageview:1.0.2'
@@ -92,8 +105,4 @@ compile 'com.netcosports.utils:netcoutils:1.0.2'
 		
 ```groovy
 compile 'com.netcosports.utils:slidingmenu:1.0.0'
-```
-		
-```groovy
-compile 'com.netcosports.viewpagerindicators:indicators:1.0.6'
 ```
