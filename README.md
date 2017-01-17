@@ -1,5 +1,25 @@
 # NetcoDocs
 
+1. Add the netco repo to your your project's build.gradle at the end of repositories
+
+/build.gradle
+```groovy
+allprojects {
+	repositories {
+		jcenter()
+		maven {
+            url "http://artifactory-blr.netcodev.com/artifactory/libs-release"
+            credentials {
+                username repoUsername
+                password repoPassword
+            }
+        }
+	}
+}
+```
+
+2. List of available libraries
+
 ```groovy
 compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
 ```
