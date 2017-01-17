@@ -20,21 +20,17 @@ allprojects {
 
 2. List of available libraries
 
-```groovy
-compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
-```
+[DataDroid](https://github.com/netcosports/DataDroid) 
 
+Contains DataDroid and DataDroidCompat modules combined into one
 ```groovy
 compile 'com.netcosports.datadroid:datadroid:1.0.3'
 ```
 
-```groovy
-compile 'com.netcosports.donwloadtranslations:download-translations-task:1.0.2'
-```
+[NetcoOptaModels](https://github.com/netcosports/NetcoOptaModels_Android)
 
-```groovy
-compile 'com.netcosports.materialshowcase:showcase-view:1.0.1'
-```
+Contains opta models with simplexml parsers, and retrofit service for rxjava and rxjava2
+
 
 ```groovy
 compile 'com.netcosports.opta:models:1.0.6'
@@ -46,6 +42,24 @@ compile 'com.netcosports.opta:rxjava:1.0.6'
 
 ```groovy
 compile 'com.netcosports.opta:rxjava2:1.0.6'
+```
+
+
+Othes:
+
+
+```groovy
+compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
+```
+
+
+
+```groovy
+compile 'com.netcosports.donwloadtranslations:download-translations-task:1.0.2'
+```
+
+```groovy
+compile 'com.netcosports.materialshowcase:showcase-view:1.0.1'
 ```
 
 ```groovy
