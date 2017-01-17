@@ -65,7 +65,7 @@ Netco view pager indicators. Also contains inside [PagerSlidingTabStrip](https:/
 compile 'com.netcosports.viewpagerindicators:indicators:1.0.6'
 ```
 
-#Signing Libraries
+Signing Libraries
 
 [Signing Library for DataDroid](https://github.com/netcosports/AndroidSigningLib)
 
@@ -77,12 +77,35 @@ compile 'com.netcosports.signing:datadroid:1.0.0'
 compile 'com.netcosports.signing:retrofit:1.0.10'
 ```
 
-Others:
+Utils
 
+[RtlWidgets](https://github.com/netcosports/RtlWidgets_Android)
 
+```groovy
+compile 'com.netcosports.utils:rtlwidgets:1.0.0'
+```
+
+[AsyncImageView](https://github.com/netcosports/AndroidAsyncImageView)
+```groovy
+compile 'com.netcosports.utils:asyncimageview:1.0.2'
+```
+
+[NetcoUtils](https://github.com/netcosports/NetcoUtilsAndroid)
+```groovy
+compile 'com.netcosports.utils:netcoutils:1.0.2'
+```
+
+[SlidingMenu](https://github.com/netcosports/SlidingMenuAndroid)
+```groovy
+compile 'com.netcosports.utils:slidingmenu:1.0.0'
+```
+
+[CropLibary](https://github.com/netcosports/CropLibraryCompat)
 ```groovy
 compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
 ```
+
+Others:
 
 
 
@@ -100,19 +123,4 @@ compile 'com.netcosports.passbook:passbook:1.0.0'
 
 ```groovy
 compile 'com.netcosports.scrollbarpanel:scrollbarpanel:1.0.0'
-```
-
-
-
-	
-```groovy
-compile 'com.netcosports.utils:asyncimageview:1.0.2'
-```
-	
-```groovy
-compile 'com.netcosports.utils:netcoutils:1.0.2'
-```
-		
-```groovy
-compile 'com.netcosports.utils:slidingmenu:1.0.0'
 ```
