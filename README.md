@@ -65,6 +65,18 @@ Netco view pager indicators. Also contains inside [PagerSlidingTabStrip](https:/
 compile 'com.netcosports.viewpagerindicators:indicators:1.0.6'
 ```
 
+#Signing Libraries
+
+[Signing Library for DataDroid](https://github.com/netcosports/AndroidSigningLib)
+
+```groovy
+compile 'com.netcosports.signing:datadroid:1.0.0'
+```
+[Signing Library for Retrofit](https://github.com/netcosports/AndroidSigningClient_Retrofit)
+```groovy
+compile 'com.netcosports.signing:retrofit:1.0.10'
+```
+
 Others:
 
 
@@ -90,9 +102,7 @@ compile 'com.netcosports.passbook:passbook:1.0.0'
 compile 'com.netcosports.scrollbarpanel:scrollbarpanel:1.0.0'
 ```
 
-```groovy
-compile 'com.netcosports.signing:retrofit:1.0.10'
-```
+
 
 	
 ```groovy
