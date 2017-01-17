@@ -8,7 +8,7 @@ allprojects {
 	repositories {
 		jcenter()
 		maven {
-            url "http://artifactory-blr.netcodev.com/artifactory/libs-release"
+            url "https://artifactory-blr.netcodev.com/artifactory/libs-release"
             credentials {
                 username repoUsername
                 password repoPassword
