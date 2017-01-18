@@ -20,6 +20,14 @@ allprojects {
 
 2. List of available libraries
 
+[GradleDownloadTranslationPlugin](https://github.com/netcosports/GradleDownloadTranslationPlugin)
+
+To download translations from Netco parse
+
+```groovy
+compile 'com.netcosports.donwloadtranslations:download-translations-task:1.0.2'
+```
+
 [DataDroid](https://github.com/netcosports/DataDroid) 
 
 Contains DataDroid and DataDroidCompat modules combined into one
@@ -70,7 +78,7 @@ Signing Libraries
 [Signing Library for DataDroid](https://github.com/netcosports/AndroidSigningLib)
 
 ```groovy
-compile 'com.netcosports.signing:datadroid:1.0.0'
+compile 'com.netcosports.signing:datadroid:1.0.3'
 ```
 [Signing Library for Retrofit](https://github.com/netcosports/AndroidSigningClient_Retrofit)
 ```groovy
@@ -105,21 +113,22 @@ compile 'com.netcosports.utils:slidingmenu:1.0.0'
 compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
 ```
 
+
 Others:
 
-
-
-```groovy
-compile 'com.netcosports.donwloadtranslations:download-translations-task:1.0.2'
-```
+[MaterialShowCaseView](https://github.com/netcosports/MaterialShowcaseView)
 
 ```groovy
 compile 'com.netcosports.materialshowcase:showcase-view:1.0.1'
 ```
 
+[PassbookAnroid](https://github.com/netcosports/PassbookAndroid)
+
 ```groovy
 compile 'com.netcosports.passbook:passbook:1.0.0'
 ```
+
+[ScrollBarPanelLib](https://github.com/denisshikunets/Android-ScrollBarPanel)
 
 ```groovy
 compile 'com.netcosports.scrollbarpanel:scrollbarpanel:1.0.0'
