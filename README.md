@@ -78,7 +78,7 @@ Signing Libraries
 [Signing Library for DataDroid](https://github.com/netcosports/AndroidSigningLib)
 
 ```groovy
-compile 'com.netcosports.signing:datadroid:1.0.3'
+compile 'com.netcosports.signing:datadroid:1.0.0'
 ```
 [Signing Library for Retrofit](https://github.com/netcosports/AndroidSigningClient_Retrofit)
 ```groovy
