@@ -35,6 +35,13 @@ Contains DataDroid and DataDroidCompat modules combined into one
 compile 'com.netcosports.datadroid:datadroid:1.0.3'
 ```
 
+[NetcoPushGCM](https://github.com/netcosports/NetcoPushGCM) 
+
+Contains Signing Library for DataDroid and play services gcm 
+```groovy
+compile 'com.netcosports.push:pushgcm:1.0.2'
+```
+
 [NetcoOptaModels](https://github.com/netcosports/NetcoOptaModels_Android)
 
 Contains opta models with simplexml parsers, and retrofit service for rxjava and rxjava2
