@@ -119,8 +119,13 @@ compile 'com.netcosports.utils:slidingmenu:1.0.0'
 ```groovy
 compile 'com.netcosports.croplibrary:croplibrary:1.0.0'
 ```
+Player
 
+[MediaPlayerControl](https://github.com/netcosports/MediaPlayerControlAndroid)
 
+```groovy
+ com.netcosports.player:mediaplayercontrol:1.0.0
+```
 Others:
 
 [MaterialShowCaseView](https://github.com/netcosports/MaterialShowcaseView)
