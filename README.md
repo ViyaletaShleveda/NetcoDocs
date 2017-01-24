@@ -89,7 +89,7 @@ compile 'com.netcosports.signing:datadroid:1.0.0'
 ```
 [Signing Library for Retrofit](https://github.com/netcosports/AndroidSigningClient_Retrofit)
 ```groovy
-compile 'com.netcosports.signing:retrofit:1.0.10'
+compile 'com.netcosports.signing:retrofit:1.0.12'
 ```
 
 Utils
@@ -126,6 +126,22 @@ Player
 ```groovy
  com.netcosports.player:mediaplayercontrol:1.0.0
 ```
+
+Calendars
+
+[MaterialCalendar](https://github.com/netcosports/material-calendarview)
+
+```groovy
+ com.netcosports.calendars:material-calendarview:1.0.0
+```
+
+old
+[CalendarV2Lib](https://github.com/netcosports/CalendarV2Lib_Android)
+
+```groovy
+ com.netcosports.calendars:squareup:1.0.0
+```	
+
 Others:
 
 [MaterialShowCaseView](https://github.com/netcosports/MaterialShowcaseView)
