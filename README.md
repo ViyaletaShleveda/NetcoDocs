@@ -42,6 +42,14 @@ Contains Signing Library for DataDroid and play services gcm
 compile 'com.netcosports.push:pushgcm:1.0.2'
 ```
 
+[Players](https://github.com/netcosports/android-player-view)
+
+exoplayer branch
+
+```groovy
+ com.netcosports.player:exoplayer:1.0.0
+ ```
+
 [NetcoOptaModels](https://github.com/netcosports/NetcoOptaModels_Android)
 
 Contains opta models with simplexml parsers, and retrofit service for rxjava and rxjava2
