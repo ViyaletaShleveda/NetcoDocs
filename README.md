@@ -68,7 +68,15 @@ compile 'com.netcosports.twitterlib:twitter:1.0.1'
 ```
 	
 ```groovy
-compile 'com.netcosports.twitterlib2:twitter:1.0.1'
+compile 'com.netcosports.twitterlib:twitter2:1.0.2'
+```
+
+[TwitterNetcoLib](https://github.com/netcosports/TwitterNetcoLib)
+
+Old twitter lib
+
+```groovy
+	com.netcosports.twitterlib:ancient-twitter:1.0.0
 ```
 
 [ViewPagerIndicators](https://github.com/netcosports/ViewPagerIndicator)
