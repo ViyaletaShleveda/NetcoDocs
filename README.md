@@ -44,10 +44,15 @@ compile 'com.netcosports.push:pushgcm:1.0.2'
 
 [Players](https://github.com/netcosports/android-player-view)
 
-exoplayer branch
+
+player branch
 
 ```groovy
  com.netcosports.player:exoplayer:1.0.0
+ ```
+cinematograph-glide branch 
+```groovy
+ com.netcosports.player:cinematograph-glide:1.0.0
  ```
 
 [NetcoOptaModels](https://github.com/netcosports/NetcoOptaModels_Android)
