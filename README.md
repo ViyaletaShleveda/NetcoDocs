@@ -110,7 +110,7 @@ compile 'com.netcosports.signing:datadroid:1.0.0'
 ```
 [Signing Library for Retrofit](https://github.com/netcosports/AndroidSigningClient_Retrofit)
 ```groovy
-compile 'com.netcosports.signing:retrofit:1.1.3'
+compile 'com.netcosports.signing:retrofit:1.1.4'
 ```
 
 Utils
