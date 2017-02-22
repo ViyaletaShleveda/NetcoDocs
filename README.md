@@ -48,7 +48,7 @@ compile 'com.netcosports.push:pushgcm:1.0.2'
 player branch
 
 ```groovy
- com.netcosports.player:exoplayer:1.0.0
+ com.netcosports.player:exoplayer:1.0.2
  ```
 cinematograph-glide branch 
 ```groovy
