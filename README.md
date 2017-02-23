@@ -61,15 +61,15 @@ Contains opta models with simplexml parsers, and retrofit service for rxjava and
 
 
 ```groovy
-compile 'com.netcosports.opta:models:1.0.10'
+compile 'com.netcosports.opta:models:1.0.11'
 ```
 
 ```groovy
-compile 'com.netcosports.opta:rxjava:1.0.10'
+compile 'com.netcosports.opta:rxjava:1.0.11'
 ```
 
 ```groovy
-compile 'com.netcosports.opta:rxjava2:1.0.10'
+compile 'com.netcosports.opta:rxjava2:1.0.11'
 ```
 [TwitterNetcoLibV2](https://github.com/netcosports/TwitterNetcoLibV2)
 
