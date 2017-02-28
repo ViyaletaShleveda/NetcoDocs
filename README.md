@@ -153,7 +153,7 @@ Calendars
 [MaterialCalendar](https://github.com/netcosports/material-calendarview)
 
 ```groovy
- com.netcosports.calendars:material-calendarview:1.0.0
+ com.netcosports.calendars:material-calendarview:1.0.5
 ```
 
 old
